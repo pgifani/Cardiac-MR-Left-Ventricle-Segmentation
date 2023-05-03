@@ -3,7 +3,7 @@
 
 data prepration for Cardiac MR Left Ventricle detection and Segmentation
 
-1) download the data set from : https://www.cardiacatlas.org/sunnybrook-cardiac-data/
+1) download the data set from : https://www.cardiacatlas.org/sunnybrook-cardiac-data/  (some sample data is in data.rar file, please unrar this file)
 
 2) convert dicom images to jpeg images
 
